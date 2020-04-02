@@ -1,12 +1,12 @@
 package main
 
 import (
+	"./message"
 	"bufio"
 	"fmt"
 	"io/ioutil"
 	"os"
 	"strings"
-	"github.com/zanzeeba/message"
 )
 
 func main() {
