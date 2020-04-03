@@ -4,7 +4,6 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
-	"github.com/spf13/cobra"
 	"github.com/zanzeeba/gotooling/message"
 	"os"
 	"strings"
